@@ -1,4 +1,4 @@
-# Exorde testnet
+# Exorde Node testnet
 
 ## Referensi
 
